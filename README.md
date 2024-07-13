@@ -1,0 +1,2 @@
+# fibonacaci-series
+using javascript
